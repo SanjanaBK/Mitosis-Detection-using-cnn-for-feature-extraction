@@ -1,0 +1,7 @@
+Scanner: Aperio ScanScope XT
+Resolution X: 0.2455
+Resolution Y: 0.2455
+
+Number of x10 frames: 4
+Number of x20 frames: 16
+Number of x40 frames: 64
